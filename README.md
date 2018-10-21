@@ -11,7 +11,9 @@ _{Includes links so some of the basic projects Ive created. }_
 ## Setup/Installation Requirements
 
 * _Simply open and read, click links where applicable._
-*_ https://github.com/DanielL87/independent-project _
+
+https://daniell87.github.io/portfolio/.
+
 
 
 ## Known Bugs
