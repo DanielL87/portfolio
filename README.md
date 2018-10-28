@@ -12,14 +12,12 @@ _{Includes links so some of the basic projects Ive created. }_
 
 * _Simply open and read, click links where applicable._
 
-
-
-
+https://daniell87.github.io/portfolio/
 
 ## Known Bugs
 
 _{N/A}_
-x
+
 ## Support and contact details
 
 _{Contact me at devidra87@gmail.com}_
