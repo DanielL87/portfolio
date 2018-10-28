@@ -12,7 +12,7 @@ _{Includes links so some of the basic projects Ive created. }_
 
 * _Simply open and read, click links where applicable._
 
-https://daniell87.github.io/portfolio/.
+
 
 
 
